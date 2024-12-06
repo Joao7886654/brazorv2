@@ -71,7 +71,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))()
 
 local Window = Fluent:CreateWindow({
-    Title = " Nome Do Seu Hub | Blox Fruits",
+    Title = " Brazer | Blox Fruits",
     SubTitle = "Version 2",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
@@ -7533,8 +7533,8 @@ OrionLib:MakeNotification(
 
 
 Fluent:Notify({
-    Title = "Brazor2 Blox Fruits",
-    Content = "Thanks For Using Brazor2 Blox Fruits",
+    Title = "Nome Do Seu Hub",
+    Content = "Thanks For Using Nome Do Seu Hub",
     Duration = 8
 })
 SaveManager:SetLibrary(Fluent)
